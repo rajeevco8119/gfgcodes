@@ -34,7 +34,7 @@ data = list('123')
 p = permutation(data)
 print(p)
 
-data = list('123')
+data = list('1234')
 p = permutation(data)
 print(p)
 
